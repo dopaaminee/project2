@@ -122,8 +122,8 @@
 				<a href="about.blade.php" class="txt19">About</a>
 			</li>
 
-			<li>
-				<a href="Cart.blade.php">Cart</a>
+			<li class="t-center m-b-13">
+				<a href="cart.blade.php">Cart</a>
 			</li>
 
 			<li class="t-center m-b-33">

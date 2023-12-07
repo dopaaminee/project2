@@ -120,9 +120,9 @@
 				<a href="about.html" class="txt19">About</a>
 			</li>
 
-			<li>
-				<a href="cart.blade.php">Cart</a>
-			</li>
+				<li class="t-center m-b-13">
+					<a href="cart.blade.php">Cart</a>
+				</li>
 
 			<li class="t-center m-b-33">
 				<a href="contact.html" class="txt19">Contact</a>

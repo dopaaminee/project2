@@ -72,7 +72,7 @@
                                 </li>
 
                                 <li>
-                                    <a href="blog.blade.php">Blog</a>
+                                    <a href="Cart.blade.php">Cart</a>
                                 </li>
 
                                 <li>
@@ -80,7 +80,7 @@
                                 </li>
 
                                 <li>
-                                    <a href="contact.blade.php">Account</a>
+                                    <i class="fa-regular fa-user" style="color: #ffffff;"></i>
                                 </li>
                             </ul>
                         </nav>
@@ -88,7 +88,6 @@
 
                     <!-- Social -->
                     <div class="social flex-w flex-l-m p-r-20">
-                        <i class="fa-regular fa-user" style="color: #ffffff;"></i>
                         <button class="btn-show-sidebar m-l-33 trans-0-4"></button>
                     </div>
                 </div>
@@ -120,13 +119,15 @@
             </li>
 
             <li class="t-center m-b-13">
-                <a href="blog.blade.php" class="txt19">Blog</a>
-            </li>
-            <li class="t-center m-b-13">
-                <a href="contact.blade.php" class="txt19">Account</a>
-            </li>
+				<a href="cart.blade.php">Cart</a>
+			</li>
+
             <li class="t-center m-b-33">
                 <a href="contact.blade.php" class="txt19">Contact</a>
+            </li>
+
+            <li class="t-center m-b-13">
+                <a href="contact.blade.php"><i class="fa-regular fa-user"></i></a>
             </li>
 
             <li class="t-center">
@@ -199,7 +200,7 @@
 
                         <div class="wrap-btn-slide1 animated visible-false" data-appear="zoomIn">
                             <!-- Button1 -->
-                            <a href="menu.html" class="btn1 flex-c-m size1 txt3 trans-0-4">
+                            <a href="menu.blade.php" class="btn1 flex-c-m size1 txt3 trans-0-4">
                                 Look Menu
                             </a>
                         </div>
@@ -241,7 +242,7 @@
 
                         <div class="wrap-btn-slide1 animated visible-false" data-appear="rotateIn">
                             <!-- Button1 -->
-                            <a href="menu.blade.php" class="btn1 flex-c-m size1 txt3 trans-0-4">
+                            <a href="menu.html" class="btn1 flex-c-m size1 txt3 trans-0-4">
                                 Look Menu
                             </a>
                         </div>
